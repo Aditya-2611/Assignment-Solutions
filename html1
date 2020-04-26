@@ -8,37 +8,6 @@
   </head>  
     <body>
 	<h1>Our Menu</h1>
-	<div class="row">
-	<div class="container col-lg-4 col-md-6 col-sm-12">
-		<section>
-		<div id="chicken">
-			Chicken
-		</div>
-		<p>
-			what can i say about chicen cicen is chicen but chicen is not coc or hen chien is chien in most of the countries chicen can be eaten in breafast m,ay  be in dinner but not confirmed  also i dont now what red meat is ithin its chien or muttton i dont noew .
-		</p>
-		</section>
-	</div>
-	<div class="container col-lg-4 col-md-6 col-sm-12">
-		<section>
-		<div id="beef">
-			beef
-		</div>
-		<p>
-			beef must be ban all around te world not only beef but all domestic animals which provides essential daily food to human beings must be banned not only that whole nonveg should get banned. 
-		</p>
-		</section>
-	</div>
-	<div class="container col-lg-4 col-md-12 col-sm-12">
-		<section>
-		<div id="sushi">
-			Sushi
-		</div>
-		<p>
-		I dont now what sushi is i thin itsn a name of some women sushi but the topicis relatedto rhe food hence i thin it must be sushila but sushila is veg and here discussiojn is going ion nonveg so i am little bit confused. 
-		</p>
-		</section>
-	</div>
-	</div>
+	
 </body>
 </html>
