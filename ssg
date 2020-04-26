@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+   <link rel="stylesheet" type="text/css"href="makeover.css">
+    
+ <title>my first webpage</title>   
+    
+ 
+    </head>
+
+<body>
+    
+    
+    
+    <h1>my first webpage</h1>
+    <h2>what is this course about?</h2>
+    <p>this course is about to learn front end <em>web devlopement</em>. this course help aq lot for me because it has given me the values when there is need in the <strong>isolation of corona virus</strong> this course kept me<strike> updated</strike> and doesent let me bored<u> during this holidays</u>.</p>
+  
+    <img src ="840328.jpg" alt " this is cars image">
+    this is cars image
+    <h2>This nis another heading</h2>
+    
+    <a href="http://www.google.com" target="_blank">Google</a>
+    
+    <a href="205607.jpg" target="_blank"> see the tree</a>
+    
+    <link/> http://www.google.com
+    </body>
+
+
+
+</html>
